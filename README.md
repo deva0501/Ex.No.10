@@ -1,7 +1,9 @@
 # Ex. No. 10 – Business Reports & Case Studies using Prompt Patterns
 
 **Date: 22/10/2025**
+
 **Name: DEVANAND C**
+
 **Register No:** 212223060043
 
 ---
